@@ -1,4 +1,57 @@
 
+.titleteam {
+    margin-top: 145px;
+}
+.image {
+
+     margin-top: 40px;
+   
+}
+
+.homebody {
+    margin-top: 80px;
+}
+
+.center {
+    margin-left: 300px;
+}
+
+ul {
+
+    background-color: #ECECC0;
+    width: 155px;
+    color: #5D9D98;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 16px;
+    text-align: center;
+    margin-right: 40px;
+    margin-left: 40px;
+
+}
+
+
+li {
+    display: block;
+    text-align: center;
+
+
+}
+
+li a {
+    background-color: #ECECC0;
+    color: #5D9D98;
+    border-radius: 16px;
+    width: 155px;
+}
+
+li a:hover {
+    background-color: #EAE792;
+    color: white;
+    border-radius: 16px;
+    width: 155px;
+}
+
 .box {
     background-color: #DFEEE2;
     height: 600px;
@@ -24,13 +77,13 @@
 }
 
 .hwthree {
-    background-color: grey;
+    /* background-color: grey; */
     height: 300px;
     margin-bottom: 100px;
 }
 
 .hwfour {
-    background-color: grey;
+    /* background-color: grey; */
     height: 300px;
     margin-bottom: 100px;
 }
@@ -66,21 +119,21 @@
 }
 
 .hweightlarge {
-    background-color: grey;
-    height: 400px;
+    /* background-color: grey; */
+    height: -500px;
     margin-bottom: 50px;
 }
 
 .hweight {
-    background-color: grey;
-    height: 800px;
-    margin-bottom: 100px;
+    /* background-color: grey; */
+    height: -100px;
+    margin-bottom: 50px;
 }
 
 .hwnine {
-    background-color: grey;
+    /* background-color: grey; */
     height: 400px;
-    margin-bottom: 100px;
+    margin-bottom: 300px;
 }
 
 .hwten {
